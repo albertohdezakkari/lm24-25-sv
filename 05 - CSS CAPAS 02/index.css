@@ -1,0 +1,41 @@
+/* CSS SON TODO REGLAS DE ESTILOS */
+    /* 1º) Nombre del elemento*/
+    /* 2º) Apertura/Cierre de llaves*/
+    /* 3º) Propiedades a tutiplen!!!!*/
+#title{
+    background-color: beige;
+}
+#description{
+    background-color: rgb(242, 255, 0);
+    display: inline-block;
+    border: 5px black groove;
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+    display: block;
+}
+#card{
+    border: 1px black solid;
+    display: inline-block;
+    margin-left: 50%;
+    padding: 20px;
+}
+#avengers{
+    width: 150px;
+    height: 150px;
+}
+.border_box{
+    border: 0.5px black solid;
+}
+#desc1{
+    color: aquamarine;
+}
+#desc2{
+    color: red;
+}
+#desc3{
+    color: yellow;
+}
+
