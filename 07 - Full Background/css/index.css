@@ -1,0 +1,11 @@
+#container p {
+    color: azure;
+}
+#container {
+    background-color: rgb(185, 179, 12);
+}
+body{
+    background-image: url('../img/avengers-team.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
